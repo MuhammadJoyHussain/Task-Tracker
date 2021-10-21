@@ -1,4 +1,4 @@
-# learning-vuejs
+# Task Tracker
 
 ## Project setup
 ```
